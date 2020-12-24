@@ -9,7 +9,7 @@ class homescreen extends React.Component {
     return (
       <div>
       
-
+      <div>to delete</div>
 
   
   
