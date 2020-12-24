@@ -1,0 +1,139 @@
+{
+  "products" : [
+      {
+          "name" : "calbury chocolate",
+          "Ingredients" : "Wheat flour, salt and water",
+          "weight": "340g",
+          "country": "China",
+          "description": "Non-fried Shanghai style noodle. Good for soup and stir frying.",
+          "image": "/Image/calbury choco.jpg",
+          "href": "html/noodle.html",
+          "price": 1.80,
+          "cat_id": "snack"
+      },
+      {
+         "name": "Udon",
+         "Ingredients": "Wheat flour, tapioca starch,salt and water",
+         "weight": "400g",
+         "country": "Korean",
+         "description": "Korean udon. Good for soup and stir frying.",
+         "image": "../Image/chips more.jpg",
+         "href": "html/udon.html",
+         "price": 3.50,
+         "cat_id": "noodle"
+      },
+      {
+         "name": "cooking oil",
+         "Ingredients": "refined palm oil, peanut oil",
+         "weight": "1.5L",
+         "country of Origin": "Malaysia",
+         "description": "High quality cooking oil, rich in Vitamin E. Ideal for cooking, dressing salads and cold dishes.",
+         "image": "../Image/knife cooking oil.jpg",
+         "href": "html/cooking_oil.html",
+         "price": 9.90,
+         "Sold": "522",
+         "Stock": "30",
+         "cat_id": "cooking oil"
+      },
+
+      {
+         "name": "cracker",
+         "Ingredients": "wheat cereal, Vitamin A,B1, B2,B3, calcium and sugar.",
+         "weight": "180g",
+         "country of Origin": "Thailand",
+         "description": "Cracker with unique combination of essential nutrients containing vitamins and minerals. ",
+         "image": "../Image/hupseng cracker.jpg",
+         "href": "html/cracker.html",
+         "price": 4.90,
+         "Sold": "367",
+         "Stock": "26",
+         "cat_id": "cookies"
+      },
+
+      {
+         "name": "Nutella",
+         "Ingredients": "Hazelnuts 13%, Sugar, Vegetable fat, skimmed milk powder, emulsifier and lecithin.",
+         "weight": "680g",
+         "country of Origin": "Australia",
+         "description": "Hazelnut spread with Cocoa. Enjoy your breakfast with great and unique taste.",
+         "image": "../Image/nutella.jpg",
+         "href": "html/nutella.html",
+         "price": 8.90,
+         "Sold": "567",
+         "Stock": "65",
+         "cat_id": "canned food"
+      },
+
+      {
+         "name": "Potato_chip",
+         "Ingredients": "Potato, salt, vegetable oil and flavoring",
+         "weight": "185g",
+         "country of Origin": "USA",
+         "description": "Classic potato chips. Snacks for your leisure time.",
+         "image": "../Image/chip.jpg",
+         "href": "html/potato_chip.html",
+         "price": 4.90,
+         "Sold": "189",
+         "Stock": "79",
+         "cat_id": "snack"
+      },
+
+      {
+         "name": "Pasta",
+         "Ingredients": "wheat flour and salt",
+         "weight": "125g",
+         "country of Origin": "",
+         "description": "Italy",
+         "image": "../Image/pasta.jpg",
+         "href": "html/pasta.html",
+         "price": 2.90,
+         "Sold": "655",
+         "Stock": "70",
+         "cat_id": "noodle"
+      },
+      {
+         "name": "Oatmeal",
+         "Ingredients": "Oat,fruit grain and sugar.",
+         "weight": "1kg",
+         "country of Origin": "Australia",
+         "description": "Rich in fiber, protein and beta glucan. Just add hot water.",
+         "image": "../Image/oatmeal.jpg",
+         "href": "html/oatmeal.html",
+         "price": 4.90,
+         "Sold": "233",
+         "Stock": "70",
+         "cat_id": "cereal"
+      },
+      {
+         "name": "Tuna",
+         "Ingredients": "Tuna solid, extra virgin olive oil and chili.",
+         "weight": "33g",
+         "country of Origin": "Thailand",
+         "description": "Tuna in extra virgin olive oil, consumer healthier choice 2019.",
+         "image": "../Image/Tuna.jpg",
+         "href": "html/tuna.html",
+         "price": 1.90,
+         "Sold": "639",
+         "Stock": "230",
+         "cat_id": "canned food"
+      },
+      {
+         "name": "Mackerel",
+         "Ingredients": "Mackerel, Tomato sauce and salt",
+         "weight": "425g",
+         "country of Origin": "China",
+         "description": "Penguin high quality ready to eat mackerel in tomato sauce.",
+         "image": "../Image/Mackerelnew.jpg",
+         "href": "html/mackerel.html",
+         "price": 2.90,
+         "Sold": "376",
+         "Stock": "300",
+         "cat_id": "canned food"
+      }
+
+
+  ] 
+
+
+
+}
